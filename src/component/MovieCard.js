@@ -20,7 +20,7 @@ function MovieCard({movie}) {
         <p className="card--desc">{movie.overview}</p>
       </div>
     </div>
-  );
+  ); 
 }
 
 export default MovieCard;
